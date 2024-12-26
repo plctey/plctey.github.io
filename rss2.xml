@@ -9,7 +9,7 @@
     <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>abc</description>
-    <pubDate>Thu, 26 Dec 2024 05:08:54 GMT</pubDate>
+    <pubDate>Thu, 26 Dec 2024 05:20:36 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -22,12 +22,12 @@
         
       <description>&lt;p&gt;百度：&lt;a href=&quot;http://www.baidu.com/&quot;&gt;http://www.baidu.com&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;知乎：&lt;a href=&quot;http://www.zhihu.com/&quot;&gt;http://www.zhihu.com&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;代码：</description>
+&lt;img s</description>
         
       
       
       
-      <content:encoded><![CDATA[<p>百度：<a href="http://www.baidu.com/">http://www.baidu.com</a></p><p>知乎：<a href="http://www.zhihu.com/">http://www.zhihu.com</a></p><p>代码：</p><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span><span class="string">&lt;iostream&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> std;</span><br><span class="line"><span class="function"><span class="type">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">cout &lt;&lt; <span class="string">&quot;Hello World!&quot;</span>;</span><br><span class="line"><span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p><img src="/md_images/text-my-site/text.jpg" alt="测试图片"></p>]]></content:encoded>
+      <content:encoded><![CDATA[<p>百度：<a href="http://www.baidu.com/">http://www.baidu.com</a></p><p>知乎：<a href="http://www.zhihu.com/">http://www.zhihu.com</a></p><img src="../md_images/text-my-site/text.jpg" alt="picture" style="zoom:150%;" /><p>code：</p><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span><span class="string">&lt;iostream&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> std;</span><br><span class="line"><span class="function"><span class="type">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">cout &lt;&lt; <span class="string">&quot;Hello World!&quot;</span>;</span><br><span class="line"><span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content:encoded>
       
       
       
