@@ -14,8 +14,8 @@
     
     <item>
       <title>hexo 图片加载问题</title>
-      <link>http://example.com/2025/01/24/hexo-%E5%9B%BE%E7%89%87%E5%8A%A0%E8%BD%BD%E9%97%AE%E9%A2%98/</link>
-      <guid>http://example.com/2025/01/24/hexo-%E5%9B%BE%E7%89%87%E5%8A%A0%E8%BD%BD%E9%97%AE%E9%A2%98/</guid>
+      <link>http://example.com/post/13043a6.html</link>
+      <guid>http://example.com/post/13043a6.html</guid>
       <pubDate>Fri, 24 Jan 2025 10:52:57 GMT</pubDate>
       
         
@@ -37,14 +37,14 @@
       <category domain="http://example.com/tags/%E6%8A%A5%E9%94%99/">报错</category>
       
       
-      <comments>http://example.com/2025/01/24/hexo-%E5%9B%BE%E7%89%87%E5%8A%A0%E8%BD%BD%E9%97%AE%E9%A2%98/#disqus_thread</comments>
+      <comments>http://example.com/post/13043a6.html#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>解决 Spawn failed 问题的三种方法</title>
-      <link>http://example.com/2025/01/24/%E8%A7%A3%E5%86%B3%20Spawn%20failed%20%E9%97%AE%E9%A2%98%E7%9A%84%E4%B8%89%E7%A7%8D%E6%96%B9%E6%B3%95/</link>
-      <guid>http://example.com/2025/01/24/%E8%A7%A3%E5%86%B3%20Spawn%20failed%20%E9%97%AE%E9%A2%98%E7%9A%84%E4%B8%89%E7%A7%8D%E6%96%B9%E6%B3%95/</guid>
+      <link>http://example.com/post/156035f.html</link>
+      <guid>http://example.com/post/156035f.html</guid>
       <pubDate>Fri, 24 Jan 2025 06:22:16 GMT</pubDate>
       
         
@@ -66,14 +66,14 @@
       <category domain="http://example.com/tags/%E6%8A%A5%E9%94%99/">报错</category>
       
       
-      <comments>http://example.com/2025/01/24/%E8%A7%A3%E5%86%B3%20Spawn%20failed%20%E9%97%AE%E9%A2%98%E7%9A%84%E4%B8%89%E7%A7%8D%E6%96%B9%E6%B3%95/#disqus_thread</comments>
+      <comments>http://example.com/post/156035f.html#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>text-my-site</title>
-      <link>http://example.com/2024/12/25/text-my-site/</link>
-      <guid>http://example.com/2024/12/25/text-my-site/</guid>
+      <link>http://example.com/post/e0a22acd.html</link>
+      <guid>http://example.com/post/e0a22acd.html</guid>
       <pubDate>Wed, 25 Dec 2024 06:36:28 GMT</pubDate>
       
         
@@ -94,14 +94,14 @@
       <category domain="http://example.com/tags/%E6%B5%8B%E8%AF%95/">测试</category>
       
       
-      <comments>http://example.com/2024/12/25/text-my-site/#disqus_thread</comments>
+      <comments>http://example.com/post/e0a22acd.html#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>测试文档</title>
-      <link>http://example.com/2024/12/25/%E6%B5%8B%E8%AF%95%E6%96%87%E6%A1%A3/</link>
-      <guid>http://example.com/2024/12/25/%E6%B5%8B%E8%AF%95%E6%96%87%E6%A1%A3/</guid>
+      <link>http://example.com/post/184eb85d.html</link>
+      <guid>http://example.com/post/184eb85d.html</guid>
       <pubDate>Tue, 24 Dec 2024 19:06:42 GMT</pubDate>
       
         
@@ -121,14 +121,14 @@
       <category domain="http://example.com/tags/%E6%B5%8B%E8%AF%95/">测试</category>
       
       
-      <comments>http://example.com/2024/12/25/%E6%B5%8B%E8%AF%95%E6%96%87%E6%A1%A3/#disqus_thread</comments>
+      <comments>http://example.com/post/184eb85d.html#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Hello World</title>
-      <link>http://example.com/2024/04/08/hello-world/</link>
-      <guid>http://example.com/2024/04/08/hello-world/</guid>
+      <link>http://example.com/post/4a17b156.html</link>
+      <guid>http://example.com/post/4a17b156.html</guid>
       <pubDate>Mon, 08 Apr 2024 09:48:13 GMT</pubDate>
       
         
@@ -147,7 +147,7 @@
       <category domain="http://example.com/tags/%E6%B5%8B%E8%AF%95/">测试</category>
       
       
-      <comments>http://example.com/2024/04/08/hello-world/#disqus_thread</comments>
+      <comments>http://example.com/post/4a17b156.html#disqus_thread</comments>
       
     </item>
     
