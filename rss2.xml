@@ -9,8 +9,23 @@
     <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>人的梦想 是不会结束的</description>
-    <pubDate>Sun, 26 Jan 2025 08:16:04 GMT</pubDate>
+    <pubDate>Sun, 26 Jan 2025 09:45:14 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>comments</title>
+      <link>http://example.com/2025/01/26/comments/</link>
+      <guid>http://example.com/2025/01/26/comments/</guid>
+      <pubDate>Sun, 26 Jan 2025 09:45:04 GMT</pubDate>
+      
+      
+      
+      
+      
+      
+      <comments>http://example.com/2025/01/26/comments/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>博客的搭建</title>
